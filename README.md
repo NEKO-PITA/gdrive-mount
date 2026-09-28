@@ -50,7 +50,7 @@
 ### Вариант 1: Запуск готового `.exe` (для пользователей)
 
 1. Установите [WinFsp](https://winfsp.dev/rel/).
-2. Скачайте свежий `GDriveMount.exe` из раздела [Releases](https://github.com).
+2. Скачайте свежий `GDriveMount.exe` из раздела [Releases](https://github.com/NEKO-PITA/gdrive-mount/releases/tag/Release).
 3. Запустите файл и следуйте подсказкам мастера настройки.
 
 ---
